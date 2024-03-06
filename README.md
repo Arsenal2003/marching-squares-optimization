@@ -5,15 +5,15 @@ Pentru a impiedica citirea incorecta la un pas al algoritmului, am utilizat o ba
  
 
 threads_aux_info struct : 
-  id -> id_ul fiecarui thread 
+  id -> id_ul fiecarui thread
   NR_THREADS -> nr de threaduri care paralelizeaza alg
-  image -> pointer catre imaginea primita ca parametru 
+  image -> pointer catre imaginea primita ca parametru
   scaled_image -> pointer catre imaginea rescalata, daca imaginea initiala a fost prea mare 
-  contour_map -> pointer catre countour map 
+  contour_map -> pointer catre countour map
   grid -> pointer catre grid   
   bariera -> pointer catre bariera folosita de threaduri
 
 
 
-
+# TO DO 
 
