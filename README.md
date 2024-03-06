@@ -13,7 +13,5 @@ threads_aux_info struct :
   grid -> pointer catre grid   
   bariera -> pointer catre bariera folosita de threaduri
 
-
-
-# TO DO 
+#TO DO 
 
